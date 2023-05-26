@@ -12,6 +12,14 @@ The app provides with the temperature, "feel like" temp and condition info (rain
 
 ## Screenshots
 
+<p align="center">
+<img src= "https://github.com/VorkhlikArtem/WeatherApp/assets/115653999/be4eefd8-12b3-4322-b063-af4fa82e8f7c" width="200">
+    <img src= "https://github.com/VorkhlikArtem/WeatherApp/assets/115653999/62230db4-6af9-4b41-a1c0-9b24aa6bd329" width="200">
+    <img src= "https://github.com/VorkhlikArtem/WeatherApp/assets/115653999/4920dbe7-c2fb-4fb0-8b17-99c22b4f3e0e" width="200">
 
+</p>
 
+<p align="center">
+      <img src= "https://github.com/VorkhlikArtem/WeatherApp/assets/115653999/56c278f7-bad5-4307-b1d1-a51fa49c4abf" width="200">
+</p>
 
